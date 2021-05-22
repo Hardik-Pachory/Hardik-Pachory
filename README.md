@@ -1,3 +1,4 @@
+<img align='center' src="https://user-images.githubusercontent.com/84628216/119238080-ffa09a00-bb5d-11eb-99a5-3c72d8cbb578.png">
 <h1 align="center">Hi 👋, I'm Hardik Pachory</h1>
 <h3 align="center">A passionate student, getting his hands dirty in Web Development and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
